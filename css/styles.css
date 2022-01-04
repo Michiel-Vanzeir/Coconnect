@@ -1,0 +1,501 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+
+body {
+  background-color: #9DD9D2;
+  color: #011638;
+}
+
+/* -- Navbar Section -- */
+
+.navbar-toggler {
+  margin-right: 3%;
+}
+
+.logo {
+  height: 8vh;
+  padding-left: 20%;
+}
+
+.nav,
+#navbar {
+  background-color: #006B8F !important;
+}
+
+.nav-link {
+    color: #fff8f0!important;
+}
+
+.nav-item {
+  font-family: "Open Sans", sans-serif;
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-left: 20px;
+}
+
+.navbar-nav {
+  padding-right: 3%;
+}
+
+/* --Title section -- */
+
+.title {
+  color: #011638;
+  margin: 0;
+  padding: 0 0 0 10%;
+}
+
+.info {
+  padding-bottom: 13vh;
+}
+
+.info h2 {
+  margin-top: 25%;
+  font-size: 3.5rem;
+  margin-bottom: 2vh;
+  padding-right: 10%;
+}
+
+#coconnect-brand {
+    color: #fff8f0;
+    margin-left: 2%;
+    font-family: "Poppins";
+    font-size: 1.5rem;
+}
+
+#y-line {
+  margin-top: 4vh;
+  margin-bottom: 4vh;
+  color: #EB5E55;
+  width: 7vh;
+  background-color: #EB5E55;
+  height: 5px;
+  border: none;
+  opacity: 100%;
+  border-radius: 25px;
+}
+
+.read-more {
+  text-decoration: none;
+  color: #fff;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 1.3rem;
+  background-color: #EB5E55;
+  border-radius: 25px;
+  padding: 5px 12px;
+}
+
+.image {
+  padding-right: 0;
+}
+
+.read-more:hover,
+.read-more:focus {
+  color: #fff;
+}
+
+.anja {
+  height: auto;
+  width: 90%;
+  padding: auto 100px;
+}
+
+/* -- Info section -- */
+
+.about-me {
+  background-color: #fff;
+  color: #011638;
+  padding: 5vh 15% 5vh 15%;
+}
+
+.about-me h3 {
+  font-size: 2.3rem;
+  margin-bottom: 2.5vh;
+}
+
+.about-me p {
+  font-size: 1.1rem;
+}
+
+/* -- Experience section -- */
+
+.exp {
+  color: #011638;
+  background-color: #fff;
+  padding: 5vh 15% 5vh 15%;
+  padding-bottom: 5vh;
+}
+
+.exp h3 {
+  font-size: 2.3rem;
+  margin-bottom: 2.5vh;
+}
+
+.exp p {
+  font-size: 1.1rem;
+}
+
+#divide-hr {
+  border: 0;
+  height: 1px;
+  width: 20%;
+  position: relative;
+  margin: 30px auto;
+  background-color: #fff;
+  background: #fff;
+}
+
+/* -- zorg section -- */
+
+.care {
+  text-align: center;
+  padding: auto 15%;
+  color: #011638;
+  padding-top: 5%;
+  background-color: #fff;
+}
+
+.care p {
+  padding: 10px 20% 25px 20%;
+  font-size: 1.1rem;
+  margin-bottom: 0;
+}
+
+.example-img {
+  height: 40vh;
+  width: 40vh;
+  margin: 5vh auto;
+  border-radius: 10px;
+}
+
+.example p, .hh3 {
+    color: #011638;
+}
+
+.example p {
+    padding-bottom: 5vh;
+}
+
+.col-lg-4 h3 {
+  font-size: 1.2rem;
+  line-height: 2em;
+}
+
+
+footer {
+  text-align: center;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  background-color: #006B8F;
+  width: 100%;
+}
+
+.Coconnect {
+    padding: 0;
+}
+
+.footer-aanbod {
+  margin-top: 5vh;
+}
+
+.footer-home {
+  background-color: #006B8F;
+}
+
+.text {
+  margin: 0;
+  color: #FFFFFF;
+}
+
+.samples {
+  margin: auto;
+  padding: 0 6%;
+  padding-bottom: 2vh;
+}
+
+.examples {
+    background-color: #fff;
+}
+
+/* ------ Contact page -------- */
+
+.contact-icon {
+  height: 100px;
+  width: 100px;
+}
+
+.contact-section {
+  text-align: center;
+  margin: 21% auto;
+}
+
+#map {
+  width: 100%;
+  height: 99.8%;
+}
+
+.main-col {
+  padding: 0;
+  margin: 0; 
+  background-color: #fff;
+}
+
+.x-contact {
+    margin: 0;
+    padding: 0;
+}
+
+.contact-body {
+  background-color: #fff;
+}
+
+.aanbod-examples {
+  text-align: center;
+  width: 100%;
+}
+
+.lees-meer {
+  border: none;
+  border-radius: 25px;
+  background-color: #EB5E55;
+  color: #fff;
+  font-size: 1.3rem;
+  padding: 5px 15px;
+  margin-top: 0.5vh;
+  text-decoration: none;
+}
+
+.lees-meer:hover,
+.lees-meer:focus {
+  text-decoration: none;
+  color: #fff;
+}
+
+.coconnect-why {
+  font-family: "Poppins", sans-serif;
+  padding: 4% 8%;
+}
+
+.coconnect-why h2 {
+  font-weight: 600;
+}
+
+.main-relatietherapie {
+  font-family: "Open Sans", sans-serif;
+  padding: 3% 40px;
+  color: #011638;
+}
+
+#privacy {
+  color: white;
+}
+
+.dropdown-menu {
+    display: none;
+}
+
+.main-relatietherapie h5 {
+    font-weight: 600;
+    margin: 20px 0;   
+    color: #EB5E55;
+}
+
+.main-relatietherapie li {
+  margin-left: 2rem;
+}
+
+.main-relatietherapie h2 {
+    font-size: 1.7rem;
+    font-weight: bold;
+}
+
+.image-col {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.coconnect-image {
+  width: 70%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.row {
+    width: 100%;
+}
+
+.vrij-verbonden {
+  text-align: center;
+  padding-bottom: 5vh;
+}
+
+.vrij-verbonden p {
+  list-style-position: inside;
+}
+
+#vrij-p {
+    padding: 2% 20%;
+}
+
+.points {
+  text-align: left;
+}
+
+.ul-div {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.life-story-col {
+    margin-top: 5%;
+}
+
+.story-img {
+  width: 65%;
+  max-width: 290px;
+  margin-bottom: 5%;
+  margin-left: 20%;
+}
+
+.image-column {
+  text-align: center;
+  width: 50%;
+  height: 100%; 
+}
+
+#row-m {
+    margin: 0;  
+}
+
+.opleiding {
+  font-family: "Poppins", sans-serif;
+  padding: 4% 16%;
+  line-height: 1.5rem;
+  margin-bottom: 4vh;
+}
+
+.ervaring {
+  font-family: "Poppins", sans-serif;
+  padding: 0% 16% 6% 16%;
+}
+
+.opleiding-sub {
+    margin-bottom: 4vh;
+}
+
+.gebeurtenis-col {
+  font-family: "Poppins", sans-serif;
+  color: #666;
+  padding: 1% 4.5% 3% 5%;
+}
+
+.col-geb-1 {
+  margin-bottom: 10%;
+}
+
+/* -- responsiveness -- */
+
+@media only screen and (min-width: 1110px) {
+    .anja {
+      width: 75%;
+    }
+  }
+  
+  @media only screen and (min-width: 1280px) {
+    .anja {
+      width: 65%;
+    }
+  }
+  
+  @media only screen and (max-width: 840px) {
+    .anja {
+      display: none;
+    }
+  }
+  
+  @media (max-width: 767px) {
+    .example {
+      text-align: center;
+      padding: 20px;
+    }
+    .image-column {
+        margin-top: 5vh;
+        margin-bottom: 2vh;
+    }
+  }
+
+.header-special {
+    color: #fff8f0;
+    text-align: center;
+    padding: 1.5%;
+    background-color: #EB5E55;
+    font-weight: bold;
+    margin-bottom: 5vh;
+}
+
+.special-footer {
+    margin-top: 5vh;
+}
+  
+
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+    .coconnect-image {
+        width: 90%!important;
+
+    }
+}
+
+@media only screen and (max-width: 991px) {
+    .coconnect-image {
+        height: 95%;
+        width: auto;
+        max-width: 90%;
+    }
+    .vrij-verbonden {
+        padding-top: 7vh;
+    }
+  }
+
+  @media only screen and (min-width: 750px) and (max-width: 991px){
+    .coconnect-image {
+        width: 60%;
+    }
+  }
+
+@media only screen and (max-width: 767px) {
+    .text-over-mij p {
+        padding: 0 5%;
+        margin-bottom: 8vh;
+    }
+    .image-column {
+        width: 100%;
+    }
+    .story-img {
+        margin-left: 0;
+    }
+    .main-relatietherapie p {
+        padding-right: 5%;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    .example {
+        position: relative;
+    }
+    .lees-meer {
+        position: absolute;
+        bottom: 0;
+    }
+    
+}
+
+.contact-section h4 {
+    margin-top: 15px;
+}
+span.rev { unicode-bidi:bidi-override; direction:rtl }
+span.rev.email:before { content:"eb.tcennococ@" }
+span.rev.email:after { content:"fni" }
+span.rev.phone:before { content:"94 50 13" }
+span.rev.phone:after { content:"584 23+ " }
